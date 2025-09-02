@@ -1,76 +1,60 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+Abhinav Vishnu Mohan - Personal Portfolio
+This repository contains the source code for my personal portfolio website, built with React.js and deployed with Vercel. The site showcases my skills, projects, and professional experience as a full-stack developer with a passion for AI/ML.
 
-<br/>
+Live Demo
+You can view the live version of my portfolio here: https://abhinavvishnumohan.vercel.app
 
-<center>
+Tech Stack
+Frontend: React.js, React-Bootstrap, CSS3
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+Backend: Node.js
 
-</center>
+Deployment: Vercel
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+Key Features
+Multi-Page Layout: Clean, organized sections for my projects, skills, and resume.
 
-## TL;DR
+Fully Responsive Design: Ensures a great user experience on all devices.
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+Interactive Elements: Features a live GitHub contribution calendar and animated skill icons with tooltips.
 
-## Built With
+Getting Started
+To get a local copy up and running, follow these simple steps. You will need node.js and git installed globally on your machine.
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Installation and Setup
+Clone the repository:
 
-This project was built using these technologies.
+git clone [https://github.com/Abhinav9863/my-react-portfolio.git](https://github.com/Abhinav9863/my-react-portfolio.git)
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+Navigate into the project directory:
 
-## Features
+cd my-react-portfolio
 
-**📖 Multi-Page Layout**
+Install the necessary packages:
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+npm install
 
-**📱 Fully Responsive**
+Run the app in development mode:
 
-## Getting Started
+npm start
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Open http://localhost:3000 to view it in the browser.
 
-## 🛠 Installation and Setup Instructions
+Acknowledgment
+This portfolio was adapted from the open-source template by Soumyajit Behera.
 
-1. Installation: `npm install`
 
-2. In the project directory, you can run: `npm start`
+#### Step 2: Push the Update to GitHub
+Now, in your terminal (inside the `D:\Portfolio-master` folder), run these three commands. This will save and upload only the change you made to the `README.md` file.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-### Show your support
-
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+1.  **Stage the change:**
+    ```bash
+    git add README.md
+    ```
+2.  **Commit the change** with a clear message:
+    ```bash
+    git commit -m "Correct and update README.md"
+    ```
+3.  **Push the commit** to GitHub:
+    ```bash
+    git push
