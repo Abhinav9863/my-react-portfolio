@@ -1,25 +1,38 @@
 Abhinav Vishnu Mohan - Personal Portfolio
-This repository contains the source code for my personal portfolio website, built with React.js and deployed with Vercel. The site showcases my skills, projects, and professional experience as a full-stack developer with a passion for AI/ML.
+<div align="center">
 
-Live Demo
-You can view the live version of my portfolio here: https://abhinavvishnumohan.vercel.app
+View Live Site
 
-Tech Stack
-Frontend: React.js, React-Bootstrap, CSS3
+</div>
 
-Backend: Node.js
-
-Deployment: Vercel
+This repository contains the source code for my personal portfolio website. It was built with React.js to showcase my skills, projects, and professional experience as a full-stack developer with a passion for AI/ML.
 
 Key Features
-Multi-Page Layout: Clean, organized sections for my projects, skills, and resume.
+Multi-Page Layout: Clean and organized sections for projects, skills, and my resume.
 
-Fully Responsive Design: Ensures a great user experience on all devices.
+Fully Responsive Design: Ensures an excellent user experience on all devices, from desktops to mobile phones.
 
-Interactive Elements: Features a live GitHub contribution calendar and animated skill icons with tooltips.
+Interactive Elements: Includes a live GitHub contribution calendar and animated skill icons with tooltips.
 
-Getting Started
-To get a local copy up and running, follow these simple steps. You will need node.js and git installed globally on your machine.
+Tech Stack
+Category
+
+Technologies
+
+Frontend
+
+React.js, React-Bootstrap, CSS3
+
+Backend
+
+Node.js
+
+Deployment
+
+Vercel
+
+Local Development
+To get a local copy up and running, please follow the steps below. You will need Node.js and Git installed globally on your machine.
 
 Installation and Setup
 Clone the repository:
@@ -38,23 +51,7 @@ Run the app in development mode:
 
 npm start
 
-Open http://localhost:3000 to view it in the browser.
+Open http://localhost:3000 to view it in your browser.
 
-Acknowledgment
-This portfolio was adapted from the open-source template by Soumyajit Behera.
-
-
-#### Step 2: Push the Update to GitHub
-Now, in your terminal (inside the `D:\Portfolio-master` folder), run these three commands. This will save and upload only the change you made to the `README.md` file.
-
-1.  **Stage the change:**
-    ```bash
-    git add README.md
-    ```
-2.  **Commit the change** with a clear message:
-    ```bash
-    git commit -m "Correct and update README.md"
-    ```
-3.  **Push the commit** to GitHub:
-    ```bash
-    git push
+Acknowledgement
+This portfolio was adapted from the open-source template created by Soumyajit Behera.
